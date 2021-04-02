@@ -48,4 +48,5 @@ What ever is the return function or variables will be accessible to the public b
 4. Singleton
 Only one instance of the class should exist. If in case it is already defined then nothing will happen.
 
-5. Factory Method 
+5. Factory/Abstract Factory Method
+Think of it as function that allows you to create different types of object (e.g CreateCar() can intanstiate a sedan, suv, van)
